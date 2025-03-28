@@ -55,9 +55,3 @@ Required Python packages:
 ## File Structure
 - `sentiment_analy.ipynb`: The main notebook with the complete sentiment analysis workflow.
 - `data/`: Directory to store the COVID-19 tweets dataset (or instructions to download it from Kaggle).
-
-
-## Acknowledgements
-- The dataset is courtesy of [Kaggle: Coronavirus tweets NLP - Text Classification](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification).
-- Special thanks to the developers of TensorFlow/Keras and NLTK for providing the tools that make this analysis possible.
-```
